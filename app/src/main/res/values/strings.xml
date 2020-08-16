@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">PoliceDashboard</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">News</string>
+    <string name="crimialregister">Criminal Register</string>
+    <string name="menu_profile">Profile</string>
+    <string name="UrSafe">UrSafe</string>
+    <string name="Station">Welcome Police Station</string>
+
+    <string name="stationid">Station ID</string>
+    <string name="location">Station location</string>
+    <string name="email">Email</string>
+    <string name="phone">Contact no</string>
+    <string name="label2">Reset Password</string>
+    <string name="button">Reset</string>
+    <string name="input2">Confirm Password</string>
+    <string name="input1">Enter Password</string>
+    <string name="station_name">Kotte Police station</string>
+    <string name="station_location">101, Galle Road Kotte</string>
+    <string name="station_email">kotte@gmail.com</string>
+    <string name="station_phone">0112002002</string>
+    <string name="deleteaccount">Delete Account</string>
+    <string name="logout">Logout</string>
+
+    <string name="msg1">A lady had lost her ATM card near the bus stop, so if anyone find it please inform.</string>
+    <string name="msg">The Police station is searching for the criminal.</string>
+    <string name="incident2">Lost Case</string>
+    <string name="incident1">Searching the criminal</string>
+
+    <string name="report">Report</string>
+    <string name="reportcriminal">Criminal Name :</string>
+    <string name="report_info">Information :</string>
+    <string name="reportlocation">Tracked Location</string>
+
+    <string name="criminalName">Criminal Name</string>
+    <string name="criminalAge">Criminal Age</string>
+    <string name="suspectedAreas">Suspected Area</string>
+    <string name="criminalHeight">Criminal Height</string>
+    <string name="lastSeen">Last Seen</string>
+    <string name="addCriminal">Add Criminal</string>
+    <string name="criminalRegistry">Criminal Registration</string>
+</resources>
